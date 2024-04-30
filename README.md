@@ -1,2 +1,3 @@
 # Activity-3---Student-registration-form
-Using HTLM, JavaScript and CSS. 
+Using HTML, JavaScript and CSS. 
+During Programming classes we were challenged to create a form that works on CRUD concepts.
